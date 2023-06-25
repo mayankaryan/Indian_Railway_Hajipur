@@ -7,7 +7,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
   
     const points = [
       { x: 375, y: 285, popup: popup1 },
-    //   { x: 980, y: 240, popup: popup1 },
+      { x: 980, y: 240, popup: popup1 },
     ];
   
     points.forEach((point, index) => {
